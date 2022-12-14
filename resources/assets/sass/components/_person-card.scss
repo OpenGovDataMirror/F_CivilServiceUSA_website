@@ -1,0 +1,34 @@
+.component-person-card {
+
+  background: #FFF;
+  transition: background 0.25s ease;
+
+  .person-name {
+    white-space: nowrap;
+  }
+  .person-bio {
+    max-height: 107px;
+    overflow: hidden;
+  }
+  .person-title {
+    color: #BBB;
+    white-space: nowrap;
+  }
+  .person-district {
+    color: #BBB;
+  }
+  .read-more {
+    margin-top: 10px !important;
+  }
+  .person-state{
+    &.with-district {
+      margin: 0;
+    }
+    &.democrat {
+      color: $civil-services-blue;
+    }
+    &.republican {
+      color: $civil-services-red;
+    }
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Lamar Alexander",
+    "name_slug": "lamar-alexander",
+    "state_name_slug": "tennessee"
+  },
+  {
+    "name": "Tammy Baldwin",
+    "name_slug": "tammy-baldwin",
+    "state_name_slug": "wisconsin"
+  },
+  {
+    "name": "John Barrasso",
+    "name_slug": "john-barrasso",
+    "state_name_slug": "wyoming"
+  },
+  {
+    "name": "Michael  Bennet",
+    "name_slug": "michael-bennet",
+    "state_name_slug": "colorado"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "name_slug": "richard-blumenthal",
+    "state_name_slug": "connecticut"
+  },
+  {
+    "name": "Roy Blunt",
+    "name_slug": "roy-blunt",
+    "state_name_slug": "missouri"
+  },
+  {
+    "name": "Cory Booker",
+    "name_slug": "cory-booker",
+    "state_name_slug": "new-jersey"
+  },
+  {
+    "name": "John Boozman",
+    "name_slug": "john-boozman",
+    "state_name_slug": "arkansas"
+  },
+  {
+    "name": "Sherrod Brown",
+    "name_slug": "sherrod-brown",
+    "state_name_slug": "ohio"
+  },
+  {
+    "name": "Richard Burr",
+    "name_slug": "richard-burr",
+    "state_name_slug": "north-carolina"
+  },
+  {
+    "name": "Maria Cantwell",
+    "name_slug": "maria-cantwell",
+    "state_name_slug": "washington"
+  },
+  {
+    "name": "Shelley Capito",
+    "name_slug": "shelley-capito",
+    "state_name_slug": "west-virginia"
+  },
+  {
+    "name": "Benjamin Cardin",
+    "name_slug": "benjamin-cardin",
+    "state_name_slug": "maryland"
+  },
+  {
+    "name": "Thomas Carper",
+    "name_slug": "thomas-carper",
+    "state_name_slug": "delaware"
+  },
+  {
+    "name": "Robert Casey",
+    "name_slug": "robert-casey",
+    "state_name_slug": "pennsylvania"
+  },
+  {
+    "name": "Bill Cassidy",
+    "name_slug": "bill-cassidy",
+    "state_name_slug": "louisiana"
+  },
+  {
+    "name": "Thad Cochran",
+    "name_slug": "thad-cochran",
+    "state_name_slug": "mississippi"
+  },
+  {
+    "name": "Susan Collins",
+    "name_slug": "susan-collins",
+    "state_name_slug": "maine"
+  },
+  {
+    "name": "Christopher Coons",
+    "name_slug": "christopher-coons",
+    "state_name_slug": "delaware"
+  },
+  {
+    "name": "Bob Corker",
+    "name_slug": "bob-corker",
+    "state_name_slug": "tennessee"
+  },
+  {
+    "name": "John Cornyn",
+    "name_slug": "john-cornyn",
+    "state_name_slug": "texas"
+  },
+  {
+    "name": "Tom Cotton",
+    "name_slug": "tom-cotton",
+    "state_name_slug": "arkansas"
+  },
+  {
+    "name": "Mike Crapo",
+    "name_slug": "mike-crapo",
+    "state_name_slug": "idaho"
+  },
+  {
+    "name": "Ted Cruz",
+    "name_slug": "ted-cruz",
+    "state_name_slug": "texas"
+  },
+  {
+    "name": "Steve Daines",
+    "name_slug": "steve-daines",
+    "state_name_slug": "montana"
+  },
+  {
+    "name": "Joe Donnelly",
+    "name_slug": "joe-donnelly",
+    "state_name_slug": "indiana"
+  },
+  {
+    "name": "Tammy Duckworth",
+    "name_slug": "tammy-duckworth",
+    "state_name_slug": "illinois"
+  },
+  {
+    "name": "Richard Durbin",
+    "name_slug": "richard-durbin",
+    "state_name_slug": "illinois"
+  },
+  {
+    "name": "Michael Enzi",
+    "name_slug": "michael-enzi",
+    "state_name_slug": "wyoming"
+  },
+  {
+    "name": "Joni Ernst",
+    "name_slug": "joni-ernst",
+    "state_name_slug": "iowa"
+  },
+  {
+    "name": "Dianne Feinstein",
+    "name_slug": "dianne-feinstein",
+    "state_name_slug": "california"
+  },
+  {
+    "name": "Deb Fischer",
+    "name_slug": "deb-fischer",
+    "state_name_slug": "nebraska"
+  },
+  {
+    "name": "Jeff Flake",
+    "name_slug": "jeff-flake",
+    "state_name_slug": "arizona"
+  },
+  {
+    "name": "Al Franken",
+    "name_slug": "al-franken",
+    "state_name_slug": "minnesota"
+  },
+  {
+    "name": "Cory Gardner",
+    "name_slug": "cory-gardner",
+    "state_name_slug": "colorado"
+  },
+  {
+    "name": "Kirsten Gillibrand",
+    "name_slug": "kirsten-gillibrand",
+    "state_name_slug": "new-york"
+  },
+  {
+    "name": "Lindsey Graham",
+    "name_slug": "lindsey-graham",
+    "state_name_slug": "south-carolina"
+  },
+  {
+    "name": "Charles Grassley",
+    "name_slug": "charles-grassley",
+    "state_name_slug": "iowa"
+  },
+  {
+    "name": "Kamala Harris",
+    "name_slug": "kamala-harris",
+    "state_name_slug": "california"
+  },
+  {
+    "name": "Margaret Hassan",
+    "name_slug": "margaret-hassan",
+    "state_name_slug": "new-hampshire"
+  },
+  {
+    "name": "Orrin Hatch",
+    "name_slug": "orrin-hatch",
+    "state_name_slug": "utah"
+  },
+  {
+    "name": "Martin Heinrich",
+    "name_slug": "martin-heinrich",
+    "state_name_slug": "new-mexico"
+  },
+  {
+    "name": "Heidi Heitkamp",
+    "name_slug": "heidi-heitkamp",
+    "state_name_slug": "north-dakota"
+  },
+  {
+    "name": "Dean Heller",
+    "name_slug": "dean-heller",
+    "state_name_slug": "nevada"
+  },
+  {
+    "name": "Mazie Hirono",
+    "name_slug": "mazie-hirono",
+    "state_name_slug": "hawaii"
+  },
+  {
+    "name": "John Hoeven",
+    "name_slug": "john-hoeven",
+    "state_name_slug": "north-dakota"
+  },
+  {
+    "name": "Chris Van Hollen",
+    "name_slug": "chris-van-hollen",
+    "state_name_slug": "maryland"
+  },
+  {
+    "name": "James Inhofe",
+    "name_slug": "james-inhofe",
+    "state_name_slug": "oklahoma"
+  },
+  {
+    "name": "Johnny Isakson",
+    "name_slug": "johnny-isakson",
+    "state_name_slug": "georgia"
+  },
+  {
+    "name": "Ron Johnson",
+    "name_slug": "ron-johnson",
+    "state_name_slug": "wisconsin"
+  },
+  {
+    "name": "Tim Kaine",
+    "name_slug": "tim-kaine",
+    "state_name_slug": "virginia"
+  },
+  {
+    "name": "John Kennedy",
+    "name_slug": "john-kennedy",
+    "state_name_slug": "louisiana"
+  },
+  {
+    "name": "Angus King",
+    "name_slug": "angus-king",
+    "state_name_slug": "maine"
+  },
+  {
+    "name": "Amy Klobuchar",
+    "name_slug": "amy-klobuchar",
+    "state_name_slug": "minnesota"
+  },
+  {
+    "name": "James Lankford",
+    "name_slug": "james-lankford",
+    "state_name_slug": "oklahoma"
+  },
+  {
+    "name": "Patrick Leahy",
+    "name_slug": "patrick-leahy",
+    "state_name_slug": "vermont"
+  },
+  {
+    "name": "Mike Lee",
+    "name_slug": "mike-lee",
+    "state_name_slug": "utah"
+  },
+  {
+    "name": "Joe Manchin",
+    "name_slug": "joe-manchin",
+    "state_name_slug": "west-virginia"
+  },
+  {
+    "name": "Edward Markey",
+    "name_slug": "edward-markey",
+    "state_name_slug": "massachusetts"
+  },
+  {
+    "name": "Catherine Masto",
+    "name_slug": "catherine-masto",
+    "state_name_slug": "nevada"
+  },
+  {
+    "name": "John McCain",
+    "name_slug": "john-mccain",
+    "state_name_slug": "arizona"
+  },
+  {
+    "name": "Claire McCaskill",
+    "name_slug": "claire-mccaskill",
+    "state_name_slug": "missouri"
+  },
+  {
+    "name": "Mitch McConnell",
+    "name_slug": "mitch-mcconnell",
+    "state_name_slug": "kentucky"
+  },
+  {
+    "name": "Robert Menendez",
+    "name_slug": "robert-menendez",
+    "state_name_slug": "new-jersey"
+  },
+  {
+    "name": "Jeff Merkley",
+    "name_slug": "jeff-merkley",
+    "state_name_slug": "oregon"
+  },
+  {
+    "name": "Jerry Moran",
+    "name_slug": "jerry-moran",
+    "state_name_slug": "kansas"
+  },
+  {
+    "name": "Lisa Murkowski",
+    "name_slug": "lisa-murkowski",
+    "state_name_slug": "alaska"
+  },
+  {
+    "name": "Christopher Murphy",
+    "name_slug": "christopher-murphy",
+    "state_name_slug": "connecticut"
+  },
+  {
+    "name": "Patty Murray",
+    "name_slug": "patty-murray",
+    "state_name_slug": "washington"
+  },
+  {
+    "name": "Bill Nelson",
+    "name_slug": "bill-nelson",
+    "state_name_slug": "florida"
+  },
+  {
+    "name": "Rand Paul",
+    "name_slug": "rand-paul",
+    "state_name_slug": "kentucky"
+  },
+  {
+    "name": "David Perdue",
+    "name_slug": "david-perdue",
+    "state_name_slug": "georgia"
+  },
+  {
+    "name": "Gary Peters",
+    "name_slug": "gary-peters",
+    "state_name_slug": "michigan"
+  },
+  {
+    "name": "Rob Portman",
+    "name_slug": "rob-portman",
+    "state_name_slug": "ohio"
+  },
+  {
+    "name": "Jack Reed",
+    "name_slug": "jack-reed",
+    "state_name_slug": "rhode-island"
+  },
+  {
+    "name": "James Risch",
+    "name_slug": "james-risch",
+    "state_name_slug": "idaho"
+  },
+  {
+    "name": "Pat Roberts",
+    "name_slug": "pat-roberts",
+    "state_name_slug": "kansas"
+  },
+  {
+    "name": "Mike Rounds",
+    "name_slug": "mike-rounds",
+    "state_name_slug": "south-dakota"
+  },
+  {
+    "name": "Marco Rubio",
+    "name_slug": "marco-rubio",
+    "state_name_slug": "florida"
+  },
+  {
+    "name": "Bernard Sanders",
+    "name_slug": "bernard-sanders",
+    "state_name_slug": "vermont"
+  },
+  {
+    "name": "Ben Sasse",
+    "name_slug": "ben-sasse",
+    "state_name_slug": "nebraska"
+  },
+  {
+    "name": "Charles Schumer",
+    "name_slug": "charles-schumer",
+    "state_name_slug": "new-york"
+  },
+  {
+    "name": "Tim Scott",
+    "name_slug": "tim-scott",
+    "state_name_slug": "south-carolina"
+  },
+  {
+    "name": "Jeff Sessions",
+    "name_slug": "jeff-sessions",
+    "state_name_slug": "alabama"
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "name_slug": "jeanne-shaheen",
+    "state_name_slug": "new-hampshire"
+  },
+  {
+    "name": "Brian Shcatz",
+    "name_slug": "brian-shcatz",
+    "state_name_slug": "hawaii"
+  },
+  {
+    "name": "Richard  Shelby",
+    "name_slug": "richard-shelby",
+    "state_name_slug": "alabama"
+  },
+  {
+    "name": "Debbie Stabenow",
+    "name_slug": "debbie-stabenow",
+    "state_name_slug": "michigan"
+  },
+  {
+    "name": "Daniel Sullivan",
+    "name_slug": "daniel-sullivan",
+    "state_name_slug": "alaska"
+  },
+  {
+    "name": "Jon Tester",
+    "name_slug": "jon-tester",
+    "state_name_slug": "montana"
+  },
+  {
+    "name": "John Thune",
+    "name_slug": "john-thune",
+    "state_name_slug": "south-dakota"
+  },
+  {
+    "name": "Thom Tillis",
+    "name_slug": "thom-tillis",
+    "state_name_slug": "north-carolina"
+  },
+  {
+    "name": "Patrick Tommey",
+    "name_slug": "patrick-tommey",
+    "state_name_slug": "pennsylvania"
+  },
+  {
+    "name": "Tom Udall",
+    "name_slug": "tom-udall",
+    "state_name_slug": "new-mexico"
+  },
+  {
+    "name": "Mark Warner",
+    "name_slug": "mark-warner",
+    "state_name_slug": "virginia"
+  },
+  {
+    "name": "Elizabeth Warren",
+    "name_slug": "elizabeth-warren",
+    "state_name_slug": "massachusetts"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "name_slug": "sheldon-whitehouse",
+    "state_name_slug": "rhode-island"
+  },
+  {
+    "name": "Roger Wicker",
+    "name_slug": "roger-wicker",
+    "state_name_slug": "mississippi"
+  },
+  {
+    "name": "Ron Wyden",
+    "name_slug": "ron-wyden",
+    "state_name_slug": "oregon"
+  },
+  {
+    "name": "Todd Young",
+    "name_slug": "todd-young",
+    "state_name_slug": "indiana"
+  }
+]
